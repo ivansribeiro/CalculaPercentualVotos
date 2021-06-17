@@ -1,0 +1,11 @@
+C:\repo\Votos_Eleitores\obj\Debug\netcoreapp3.1\Votos_Eleitores.csprojAssemblyReference.cache
+C:\repo\Votos_Eleitores\obj\Debug\netcoreapp3.1\Votos_Eleitores.AssemblyInfoInputs.cache
+C:\repo\Votos_Eleitores\obj\Debug\netcoreapp3.1\Votos_Eleitores.AssemblyInfo.cs
+C:\repo\Votos_Eleitores\bin\Debug\netcoreapp3.1\Votos_Eleitores.exe
+C:\repo\Votos_Eleitores\bin\Debug\netcoreapp3.1\Votos_Eleitores.deps.json
+C:\repo\Votos_Eleitores\bin\Debug\netcoreapp3.1\Votos_Eleitores.runtimeconfig.json
+C:\repo\Votos_Eleitores\bin\Debug\netcoreapp3.1\Votos_Eleitores.runtimeconfig.dev.json
+C:\repo\Votos_Eleitores\bin\Debug\netcoreapp3.1\Votos_Eleitores.dll
+C:\repo\Votos_Eleitores\bin\Debug\netcoreapp3.1\Votos_Eleitores.pdb
+C:\repo\Votos_Eleitores\obj\Debug\netcoreapp3.1\Votos_Eleitores.dll
+C:\repo\Votos_Eleitores\obj\Debug\netcoreapp3.1\Votos_Eleitores.pdb
